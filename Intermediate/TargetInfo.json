@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "RunningMobile",
+			"Path": "D:\\UnrealEngineProject\\RunningMobile\\Source\\RunningMobile.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "RunningMobileEditor",
+			"Path": "D:\\UnrealEngineProject\\RunningMobile\\Source\\RunningMobileEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

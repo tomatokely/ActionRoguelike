@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\RunningMobile.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\RunningMobile.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\RunningMobileEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Platforms">
+      <UniqueIdentifier>{ED49A36C-4FD5-37E5-A2AC-E11BEF4F21CF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Platforms\HoloLens">
+      <UniqueIdentifier>{28125F47-4973-377C-9D77-EBC3C72EC856}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Platforms\HoloLens\Config">
+      <UniqueIdentifier>{D3BF39CB-FA64-39E2-A327-B5021BA69773}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Platforms\HoloLens\Config\HoloLensEngine.ini">
+      <Filter>Platforms\HoloLens\Config</Filter>
+    </None>
+    <Filter Include="Source\RunningMobile">
+      <UniqueIdentifier>{B1694BD3-B9CE-37BD-8FAE-72F777C1ED4E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\RunningMobile\RunningMobile.Build.cs">
+      <Filter>Source\RunningMobile</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\RunningMobile\RunningMobile.cpp">
+      <Filter>Source\RunningMobile</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\RunningMobile\RunningMobile.h">
+      <Filter>Source\RunningMobile</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\RunningMobile\RunningMobileGameModeBase.cpp">
+      <Filter>Source\RunningMobile</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\RunningMobile\RunningMobileGameModeBase.h">
+      <Filter>Source\RunningMobile</Filter>
+    </ClInclude>
+    <Filter Include="Source\RunningMobile\Private">
+      <UniqueIdentifier>{EE338093-A372-38EE-9911-E8A1539F5778}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\RunningMobile\Private\TheCharacter.cpp">
+      <Filter>Source\RunningMobile\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\RunningMobile\Private\TheGameMode.cpp">
+      <Filter>Source\RunningMobile\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\RunningMobile\Public">
+      <UniqueIdentifier>{F5847C71-8CA9-3CFE-9C7D-4346AC17B46F}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\RunningMobile\Public\TheCharacter.h">
+      <Filter>Source\RunningMobile\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\RunningMobile\Public\TheGameMode.h">
+      <Filter>Source\RunningMobile\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

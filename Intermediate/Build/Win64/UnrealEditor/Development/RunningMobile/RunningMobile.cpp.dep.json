@@ -1,0 +1,14 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\unrealengineproject\\runningmobile\\source\\runningmobile\\runningmobile.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unrealengineproject\\runningmobile\\intermediate\\build\\win64\\runningmobileeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\unrealengineproject\\runningmobile\\intermediate\\build\\win64\\unrealeditor\\development\\runningmobile\\definitions.runningmobile.h",
+            "d:\\unrealengineproject\\runningmobile\\source\\runningmobile\\runningmobile.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
